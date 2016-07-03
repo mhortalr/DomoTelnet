@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DomoTelnet</string>
+    <string name="pagina_principal">Pagina principal</string>
+    <string name="persianas">Persianas</string>
+    <string name="persianas_dormitorio">Persianas dormitorio</string>
+    <string name="subir_i">Subir persiana izquierda</string>
+    <string name="bajar_i">Bajar persiana izquierda</string>
+    <string name="subir_d">Subir persiana derecha</string>
+    <string name="bajar_d">Bajar persiana derecha</string>
+    <string name="salir">salir</string>
+</resources>
